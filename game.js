@@ -2,13 +2,13 @@ let characters = {
     Hero: {
         health: 100,
         attack: 5,
-        img: 'http://placehold.it/634x634',
+        img: 'https://www.writeups.org/wp-content/uploads/Coolest-Guy-Ever-DC-Heroes-RPG.jpg',
         bar: 'bg-success'
     },
     Titan: {
         health: 100,
         attack: 5,
-        img: 'http://thiscatdoesnotexist.com',
+        img: 'http://www.clipartbest.com/cliparts/niE/Gox/niEGox9iA.png',
         bar: 'bg-danger'
     }
 }
